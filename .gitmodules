@@ -1,0 +1,4 @@
+[submodule "Libraries/micro_ros_stm32cubemx_utils"]
+	path = Libraries/micro_ros_stm32cubemx_utils
+	url = https://github.com/micro-ROS/micro_ros_stm32cubemx_utils.git
+	branch = humble
